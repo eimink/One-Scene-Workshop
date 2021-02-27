@@ -3,6 +3,14 @@ Git repository for One Scene Workshop
 
 Anyone can create demos! This repository contains a template you can base your One Scene compoentry on.
 
+## Assembly  Winter 2021 info
+One Scene workshop will be active during the first week of ASMW'21 on Assembly Discord. https://discord.com/invite/assembly
+
+There will be staff present between 18.00 - 20.00 EET (17.00-19.00 CET) during 8.3. - 14.3. on the one-scene-workshop channel. Come join the discussion and get help for making your first demo!
+
+One Scene competition deadline is 15.4.2021 @ 16.00
+
+
 # Tools used
  - Processing 3.5.4 https://processing.org/
  - Minim http://code.compartmental.net/tools/minim/
