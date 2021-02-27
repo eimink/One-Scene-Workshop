@@ -8,7 +8,8 @@ One Scene workshop will be active during the first week of ASMW'21 on Assembly D
 
 There will be staff present between 18.00 - 20.00 EET (17.00-19.00 CET) during 8.3. - 14.3. on the one-scene-workshop channel. Come join the discussion and get help for making your first demo!
 
-One Scene competition deadline is 15.4.2021 @ 16.00
+One Scene competition deadline is Monday 15.4.2021 @ 16.00
+Entries are submitted via Partyman at https://scene.assembly.org/
 
 
 # Tools used
